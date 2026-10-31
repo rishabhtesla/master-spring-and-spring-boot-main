@@ -1,5 +1,8 @@
 # Master Spring and Spring Boot
 
+> 🎯 **Learning & Interview Guide:** Start with [`interview-guide/README.md`](interview-guide/README.md) — module-by-module
+> deep dives, 300+ interview Q&As, a study roadmap, rapid-fire revision, and how to explain this project in interviews.
+
 **Spring and Spring Boot** Frameworks are the **No 1 frameworks** for building enterprise apps in the Java world. 
 
 In this course, you will **learn Spring and Spring Boot from ZERO**. 
